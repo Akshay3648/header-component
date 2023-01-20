@@ -1,0 +1,15 @@
+{
+  "name": "header-component",
+  "version": "1.0.0",
+  "description": "A generic header compoent",
+  "main": "header.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "header",
+    "component"
+  ],
+  "author": "Akshay Mahajan",
+  "license": "ISC"
+}
